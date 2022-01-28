@@ -6,7 +6,7 @@ module.exports = {
     extend: {
         colors: {
           'menubar': 'rgba(255,248,220,1)',
-          'background': 'rgba(222,184,135,1)',
+          'background': 'rgb(199,153,91)',
           'button': 'rgba(255,222,173,1)',
         },
     },
